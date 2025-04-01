@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Pictures"
+title: "Macquarie NLP group - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "Macquarie NLP group -- Pictures"
 permalink: /pictures/
 ---
 

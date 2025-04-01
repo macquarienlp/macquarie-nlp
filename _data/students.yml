@@ -3,9 +3,147 @@
 #  info:
 #  email:
 #  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
+#  interest1:
+#  interest2:
+#  interest3:
+#  interest4:
 
+
+- name: David Warren
+  photo: rock.jpg
+  info: Information Sharing in Genetic Reinforcement Learning Hybrids
+  email: david.warren@hdr.mq.edu.au
+  number_educ:
+  interest1:
+  interest2:
+  interest3:
+  interest4:
+
+- name: Anh Ngo
+  photo: rock.jpg
+  email: nguyenmaianh.ngo@students.mq.edu.au
+  has_scholar: 
+
+- name: Afrozah Nadeem
+  photo: student_afrozah_nadeem.jpg
+  email: afrozah.nadeem@hdr.mq.edu.au
+  has_scholar: 1
+  scholar: https://scholar.google.com.au/citations?user=zAlROqYAAAAJ&hl=en&authuser=1
+
+- name: Zihan Zhu
+  photo: student_zihan_zhu.PNG
+  email: zihan.zhu1@hdr.mq.edu.au
+  has_scholar: 
+  Webpage: https://www.linkedin.com/in/zihan-zhu-60b84720b/
+  number_educ: 3
+  has_scholar:
+  has_webpage: 1
+  interest1: LLM
+  interest2: Knowledge Representation and Reasoning
+  interest3: AI for Finance
+  interest4:
+
+- name: Juan Ren
+  photo: rock.jpg
+  email: juan.ren@hdr.mq.edu.au
+  has_scholar: 
+
+- name: Abid Ali 
+  photo: rock.jpg
+  email: abid.ali@hdr.mq.edu.au
+  has_scholar: 
+
+- name: Grant Zhang 
+  photo: rock.jpg
+  email: yiran.zhang1@hdr.mq.edu.au
+  has_scholar: 
+
+- name: Ziyan Guan 
+  photo: rock.jpg
+  email: ziyan.guan@hdr.mq.edu.au
+  has_scholar: 
+
+- name: Utsav Maskey 
+  photo: student_utsav_maskey.jpeg
+  email: utsav.maskey@hdr.mq.edu.au
+  has_scholar: 1
+  scholar: https://scholar.google.com/citations?user=NeR5aJUAAAAJ&hl=en&oi=sra
+
+- name: Kevin Purnell 
+  photo: rock.jpg
+  email: kevin.purnell@hdr.mq.edu.au
+  has_scholar: 
+
+- name: Lingfeng Zhong
+  photo: rock.jpg
+  email: lingfeng.zhong@hdr.mq.edu.au
+  has_scholar: 
+
+- name: Ben Woods
+  photo: rock.jpg
+  email: ben.woods@hdr.mq.edu.au
+  has_scholar: 
+
+- name: Md Azizul Hoque
+  photo: student_md_azizul_hoque.jpg
+  email: mdazizul.hoque@students.mq.edu.au
+  has_scholar: 1
+  scholar: https://scholar.google.com/citations?hl=en&authuser=1&user=BIPV27UAAAAJ
+  Webpage: https://mdazizulaman.github.io/
+  has_webpage: 1
+
+- name: Md.Nazmul Hossain 
+  photo: rock.jpg
+  email: mdnazmul.hossain@hdr.mq.edu.au
+  has_scholar: 
+
+- name: Weijun Li
+  photo: student_weijunli-profile.png
+  info: Data Reconstruction Attack and Privacy-Preserving Defense
+  email: weijun.li1@hdr.mq.edu.au
+  scholar: https://scholar.google.com.au/citations?user=A0nTTjYAAAAJ&hl=en
+  Webpage: https://weijun-l.github.io/
+  number_educ: 1
+  has_scholar: 1
+  has_webpage: 1
+  interest1: NLP Privacy and Security
+  interest2:
+  interest3:
+  interest4:
+  
+- name: Yelaman Abdullin
+  photo: rock.jpg
+  info: Conversational Search for Solving Combinatorial Optimization Problems
+  email: yelaman.abdullin@hdr.mq.edu.au
+  number_educ:
+  has_scholar: 
+  interest1:
+  interest2:
+  interest3:
+  interest4:
+
+
+- name: Aung Kyaw Htet 
+  photo: rock.jpg
+  info: Uplifting LLM performance for Low-Resource Languages
+  email: aungkyaw.htet@hdr.mq.edu.au
+  number_educ:
+  has_scholar: 
+  interest1:
+  interest2:
+  interest3:
+  interest4:
+
+
+- name: Gautam Siddharth Kashyap
+  photo: student_gautam_siddharth.png
+  info: Foundation Models for Multimodal Content Analysis in the Internet
+  email: gautam.kashyap@hdr.mq.edu.au
+  number_educ:
+  has_scholar: 1
+  scholar: https://scholar.google.com.au/citations?hl=en&user=p8cdsVoAAAAJ&view_op=list_works
+  interest1:
+  interest2:
+  interest3:
+  interest4:
 
