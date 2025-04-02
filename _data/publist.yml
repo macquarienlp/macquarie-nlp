@@ -3,6 +3,7 @@
   image: ShotNoise.png
   description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
   authors: Shakila Mahjabin Tonni, Pedro Faustini, Mark Dras
+  year: 2025
   link:
     url: https://direct.mit.edu/coli/article/doi/10.1162/coli_a_00555/128185
     display: Computational Linguistics
@@ -12,6 +13,7 @@
   image: ShotNoise.png
   description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
   authors: David Fraile Navarro, Enrico Coiera, Thomas W Hambly, Zoe Triplett, Nahyan Asif, Anindya Susanto, Anamika Chowdhury, Amaya Azcoaga Lorenzo, Mark Dras, Shlomo Berkovsky
+  year: 2025
   link:
     url: https://www.nature.com/articles/s41598-024-84850-x
     display: Scientific Reports
@@ -21,24 +23,27 @@
   image: ShotNoise.png
   description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
   authors: Owen Rambow, Leo Wanner, Marianna Apidianaki, Hend Al-Khalifa, Barbara Di Eugenio, Steven Schockaert, Brodie Mather, Mark Dras
+  year: 2025
   link:
     url: https://aclanthology.org/2025.coling-demos.0/
     display: Proceedings of the 31st International Conference on Computational Linguistics System Demonstrations
-  highlight: 1
+  highlight: 0
 
 - title: "Natural Language Understanding of Devanagari Script Languages: Language Identification, Hate Speech and its Target Detection"
   image: ShotNoise.png
   description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
   authors: Surendrabikram Thapa, Kritesh Rauniyar, Farhan Ahmad Jafri, Surabhi Adhikari, Kengatharaiyer Sarveswaran, Bal Krishna Bal, Hariram Veeramani, Usman Naseem
+  year: 2025
   link:
     url: https://aclanthology.org/2025.chipsal-1.7/
     display: Proceedings of the First Workshop on Challenges in Processing South Asian Languages (CHiPSAL 2025)
-  highlight: 1
+  highlight: 0
 
 - title: "Enhancing textual textbook question answering with large language models and retrieval augmented generation"
   image: imageaward_edited.png
   description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
   authors: Hessa A. Alawwad, Areej Alhothali, Usman Naseem, Ali Alkhathlan, Amani Jamal 
+  year: 2025
   link:
     url:  https://www.sciencedirect.com/science/article/pii/S0031320324010835
     display: Pattern Recognition
@@ -48,35 +53,39 @@
   image: BSCCOgap.png
   description: Why does cuprate superconductivity break down at a certain doping level? Using scanning tunneling spectroscopy we find that an emerging metallic matrix inside the superconducting state is responsible for the overall reduction of Tc and the superfluid density, while leaving the gapsize unchanged. The formation of the matrix is tied to a pair breaking process violating a core principle of mean-field theories.
   authors: Abdulsalam obaid Alharbi, Abdullah Alsuhaibani, Abdulrahman Abdullah Alalawi, Usman Naseem, Shoaib Jameel, Salil Kanhere, Imran Razzak
+  year: 2025
   link:
     url: https://aclanthology.org/2025.abjadnlp-1.11/
     display: Proceedings of the 1st Workshop on NLP for Languages Using Arabic Script
-  highlight: 1
+  highlight: 0
 
 
 - title: "Knowledge Enhanced Language Model for Biomedical Natural Language Processing: Introducing a New Language Model for BioNLP"
   image: Pairs3.png
   description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
   authors: Usman Naseem; Qi Zhang; Liang Hu; Sadam Hussain; Shoujin Wang
+  year: 2025
   link:
     url: https://ieeexplore.ieee.org/abstract/document/10836827
     display: IEEE Systems, Man, and Cybernetics Magazine
-  highlight: 1
+  highlight: 0
 
 - title: "Leveraging Taxonomy and LLMs for Improved Multimodal Hierarchical Classification"
   image: TBG_SL.png
   description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
   authors: Shijing Chen, Mohamed Reda Bouadjenek, Usman Naseem, Basem Suleiman, Shoaib Jameel, Flora Salim, Hakim Hacid, Imran Razzak
+  year: 2025
   link:
     url: https://aclanthology.org/2025.coling-main.417/
     display:  Proceedings of the 31st International Conference on Computational Linguistics
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Large language models vs human for classifying clinical documents"
   image: TBG_SL.png
   description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
   authors: Akram Mustafa, Usman Naseem,  Mostafa Rahimi Azghadi
+  year: 2025
   link:
     url: https://www.sciencedirect.com/science/article/pii/S1386505625000176
     display:  International Journal of Medical Informatics
@@ -87,15 +96,17 @@
   image: YSR.png
   description: We report on a peculiar, spatially dispersing YSR state in Fe(Se,Te) that can be tuned by the tip.
   authors: Zhihao Zhang, Carrie-Ann Wilson, Rachel Hay, Yvette Everingham, Usman Naseem
+  year: 2025
   link:
     url: https://aclanthology.org/2025.coling-demos.7/
     display:  Proceedings of the 31st International Conference on Computational Linguistics System Demonstrations
-  highlight: 1
+  highlight: 0
 
 - title: "Large language models (LLM) in computational social science: prospects, current state, and challenges"
   image: TBG_ARPES.png
   description:
   authors: Surendrabikram Thapa, Shuvam Shiwakoti, Siddhant Bikram Shah, Surabhi Adhikari, Hariram Veeramani, Mehwish Nasim & Usman Naseem 
+  year: 2025
   link:
     url: https://link.springer.com/article/10.1007/s13278-025-01428-9
     display: Social Network Analysis and Mining
