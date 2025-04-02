@@ -1,3 +1,4 @@
+
 - name: Mark Dras
   photo: Dras_Mark.jpg
   info: Director of Research Training
@@ -75,10 +76,11 @@
   interest1: Natural Language Processing.
   interest2: Privacy-Preserving Machine Learning
 
-name: "This could be you !"
+- name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="https://macquarienlp.github.io/vacancies">Vacancies</a> for more info
-  email: 
+  info: 
+  scholar:  
+  email: See <a href="https://macquarienlp.github.io/vacancies">Vacancies</a> for more info
   number_educ: 0
   interest1:
   interest2:
