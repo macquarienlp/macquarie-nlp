@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Macquarie NLP group - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Macquarie NLP group -- Publications."
 sitemap: false
 permalink: /publications/
 ---
