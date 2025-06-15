@@ -53,10 +53,11 @@
   email: abid.ali@hdr.mq.edu.au
   has_scholar: 
 
-- name: Grant Zhang 
+- name: Yiran Zhang
   photo: rock.jpg
   email: yiran.zhang1@hdr.mq.edu.au
-  has_scholar: 
+  has_scholar: 1
+  scholar: https://scholar.google.com/citations?hl=en-AU&user=N3V3husAAAAJ
 
 - name: Ziyan Guan 
   photo: rock.jpg
