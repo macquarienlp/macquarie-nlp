@@ -1,10 +1,295 @@
+- title: "Truth, Trust, and Trouble: Medical AI on the Edge"
+  authors: Mohammad Anas Azeez, Rafiq Ali, Ebad Shabbir, Zohaib Hasan Siddiqui, Gautam Siddharth Kashyap, Jiechao Gao, Usman Naseem
+  year: 2025
+  link:
+    url: to appear
+    display: EMNLP Industry Track
+  highlight: 1
+
+- title: "LLMs on a Budget? Say HOLA"
+  authors: Zohaib Hasan Siddiqui, Jiechao Gao, Ebad Shabbir, Mohammad Anas Azeez, Rafiq Ali Gautam Siddharth Kashyap, Usman Naseem
+  year: 2025
+  link:
+    url: to appear
+    display: EMNLP Industry Track
+  highlight: 1
+
+- title: "PersoPilot: An Adaptive AI-Copilot for Transparent Contextualized Persona Classification and Personalized Response Generation"
+  authors: Saleh Afzoon, Amin Beheshti, and Usman Naseem
+  year: 2025
+  link:
+    url: to appear
+    display: IEEE International Conference on Data Mining (ICDM), Demo Track
+  highlight: 1
+
+- title: "PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims"
+  authors: Yongmin Yoo (*MQ PhD), Qiongkai Xu, Longbing Cao
+  year: 2025
+  link:
+    url: to appear
+    display: EMNLP
+  highlight: 1
+
+- title: "GRADA: Graph-based Reranker against Adversarial Documents Attack"
+  authors: Jingjie Zheng, Aryo Pradipta Gema, Giwon Hong, Xuanli He, Pasquale Minervini, Youcheng Sun, Qiongkai Xu
+  year: 2025
+  link:
+    url: to appear
+    display: EMNLP
+  highlight: 1
+
+- title: "Cut the Deadwood Out: Post-Training Model Purification with Selective Module Substitution"
+  authors: Yao Tong, Weijun Li, Xuanli He, Haolan Zhan, Qiongkai Xu
+  year: 2025
+  link:
+    url: to appear
+    display: EMNLP
+  highlight: 1
+
+- title: "NAP^2: A Benchmark for Naturalness and Privacy-Preserving Text Rewriting by Learning from Human"
+  authors: Shuo Huang, William Maclean, Xiaoxi Kang, Qiongkai Xu, Zhuang Li, Xingliang Yuan, Gholamreza Haffari, Lizhen Qu
+  year: 2025
+  link:
+    url: to appear
+    display: EMNLP
+  highlight: 1
+
+- title: "Can LLM Agents Maintain a Persona in Discourse?"
+  authors: Pranav Bhandari, Nicolas Fay, Michael J Wise, Amitava Datta, Stephanie Meek, Usman Naseem, Mehwish Nasim
+  year: 2025
+  link:
+    url: to appear
+    display: EMNLP
+  highlight: 1
+
+- title: "Benchmarking Large Language Models for Cryptanalysis and Side-Channel Vulnerabilities"
+  authors: Utsav Maskey, Chencheng ZHU, Usman Naseem
+  year: 2025
+  link:
+    url: to appear
+    display: EMNLP
+  highlight: 1
+
+- title: "TurnBench-MS: A Benchmark for Evaluating Multi-Turn, Multi-Step Reasoning in Large Language Models"
+  authors: Yiran Zhang, Mo Wang, Xiaoyang Li, Kaixuan Ren, Chencheng ZHU, Usman Naseem
+  year: 2025
+  link:
+    url: to appear
+    display: EMNLP
+  highlight: 1
+
+- title: "Too Helpful, Too Harmless, Too Honest or Just Right?"
+  authors: Gautam Siddharth Kashyap, Mark Dras, Usman Naseem
+  year: 2025
+  link:
+    url: to appear
+    display: EMNLP
+  highlight: 1
+
+- title: "Pluralistic Alignment for Healthcare: A Role-Driven Framework"
+  authors: Jiayou Zhong, Anudeex Shetty, Chao Jia, Xuanrui Lin, Usman Naseem
+  year: 2025
+  link:
+    url: to appear
+    display: EMNLP
+  highlight: 1
+
+- title: "ExtremeAIGC: Benchmarking LMM Vulnerability to AI-Generated Extremist Content"
+  authors: Bhavik Chandna, Mariam Aboujenane, Usman Naseem
+  year: 2025
+  link:
+    url: to appear
+    display: EMNLP
+  highlight: 1
+
+- title: "From Generation to Detection: A Multimodal Multi-Task Dataset for Benchmarking Health Misinformation"
+  authors: Zhihao Zhang, Yiran Zhang (MQ MRes), Xiyue Zhou, Liting Huang, Imran Razzak, Preslav Nakov, Usman Naseem
+  year: 2025
+  link:
+    url: to appear
+    display: EMNLP
+  highlight: 1
+
+- title: "Steering Towards Fairness: Mitigating Political Stance Bias in LLMs"
+  authors: Afrozah Nadeem, Mark Dras and Usman Naseem
+  year: 2025
+  link:
+    url: to appear
+    display: CASE@RANLP
+  highlight: 0
+
+- title: "MRGAgents: A Multi-Agent Framework for Improved Medical Report Generation with Med-LVLMs"
+  authors: Pengyu Wang, Shuchang Ye, Usman Naseem, Jinman Kim
+  year: 2025
+  link:
+    url: to appear
+    display: DICTA
+  highlight: 0
+
+
+- title: "Enhancing Zero-Shot Learning of Pathology Vision-Language Foundation Models in Tumour Malignancy Recognition"
+  authors: Xiao Wang, Usman Naseem and Jinman Kim
+  year: 2025
+  link:
+    url: to appear
+    display: ECAI
+  highlight: 0
+
+- title: "Reasoning Large Language Models for Clinical Coding"
+  authors: Akram Mustafa, Usman Naseem, Mostafa Rahimi Azghadi
+  year: 2025
+  link:
+    url: to appear
+    display: BioCreative IX @IJCAI
+  highlight: 0
+
+- title: "CLARITY: A Lightweight Multimodal Transformer for Harmful Content Detection"
+  authors: Kashyap, Gautam Siddharth *, Niharika Jain, Ebad Shabbir, Harsh Joshi, Usman Naseem, and Jiechao Gao
+  year: 2025
+  link:
+    url: to appear
+    display: IEEE Transactions on Artificial Intelligence
+  highlight: 0
+
+- title: "UICD: A New Dataset and Approach for Urdu Image Captioning"
+  authors: Rimsha Muzaffar; Syed Yasser Arafat; Junaid Rashid; Jungeun Kim; Usman Naseem 
+  year: 2025
+  link:
+    url: to appear
+    display: PlosOne
+  highlight: 0
+
+- title: "Bi-directional Model Cascading with Proxy Confidence"
+  authors: David Warren *, Mark Dras
+  year: 2025
+  link:
+    url: to appear
+    display: ECAI
+  highlight: 0
+
+- title: "A Systematic Literature Review on Multimodal Text Summarization"
+  authors: Abid Ali, Diego Molla-Aliod
+  year: 2025
+  link:
+    url: https://dl.acm.org/doi/10.1145/3763245
+    display: ACM Computing Surveys 
+  highlight: 1
+
+- title: "Alleviating Textual Reliance in Medical Language-guided Segmentation via Prototype-driven Semantic Approximation"
+  authors: Shuchang Ye, Usman Naseem, Mingyuan Meng, Jinman Kim
+  year: 2025
+  link:
+    url: https://iccv.thecvf.com/virtual/2025/poster/1226
+    display: ICCV 
+  highlight: 1
+  
+- title: "Towards Teams being Led by a Conversational Agent"
+  authors: James Simpson, Hamish Stening, Patrick Nalepka, Mark Dras, Rachel W. Kallen, Simon G. Hosking, Deborah Richards, and Michael J. Richardson
+  year: 2025
+  link:
+    url: to appear
+    display: ACM Conference on Conversational User Interfaces (CUI )
+  highlight: 0
+
+- title: "IDT: Dual-Task Adversarial Rewriting for Attribute Anonymisation"
+  authors: Pedro Faustini, Shakila Mahjabin Tonni, Annabelle McIver, Qiongkai Xu, Mark Dras
+  year: 2025
+  link:
+    url: https://direct.mit.edu/coli/article/doi/10.1162/coli.a.17/131655/IDT-Dual-Task-Adversarial-Rewriting-for-Attribute
+    display: Computational Linguistics
+  highlight: 0
+
+
+- title: "AgentMILO: A Knowledge-Based Framework for Complex MILP Modelling Conversations with LLMs"
+  authors: Jyotheesh Gaddam; Lele Zhang; Vicky Mak-Hau; John Yearwood; Bahadorreza Ofoghi; Diego Molla-Aliod
+  year: 2025
+  link:
+    url: to appear
+    display: ICCAE  
+  highlight: 0
+
+- title: "ALGEN: Few-shot Inversion Attacks on Textual Embeddings using Alignment and Generation"
+  authors: Yiyi Chen, Qiongkai Xu, Johannes Bjerva
+  year: 2025
+  link:
+    url: https://aclanthology.org/2025.acl-long.1185/
+    display: ACL 
+  highlight: 1
+
+- title: " WET: Overcoming Paraphrasing Vulnerabilities in Embeddings-as-a-Service with Linear Transformation Watermarks"
+  authors: Anudeex Shetty, Qiongkai Xu, Jey Han Lau
+  year: 2025
+  link: 
+    url: https://aclanthology.org/2025.acl-long.1122/
+    display: ACL 
+  highlight: 1
+
+- title: "TUBA: Cross-Lingual Transferability of Backdoor Attacks in LLMs with Instruction Tuning"
+  authors: Xuanli He, Jun Wang, Qiongkai Xu, Pasquale Minervini, Pontus Stenetorp, Benjamin I. P. Rubinstein, Trevor Cohn
+  year: 2025
+  link: 
+    url: https://aclanthology.org/2025.findings-acl.848/
+    display: ACL 
+  highlight: 1
+
+- title: "VITAL: A New Dataset for Benchmarking Pluralistic Alignment in Healthcare"
+  authors: Anudeex Shetty, Amin Beheshti, Mark Dras, Usman Naseem
+  year: 2025
+  link: 
+    url: https://aclanthology.org/2025.acl-long.1119/
+    display: ACL 
+  highlight: 1
+
+- title: "Reversal of Thought: Enhancing Large Language Models with Preference-Guided Reverse Reasoning Warm-up"
+  authors: Jiahao Yuan, Dehui du, Hao Zhang, Zixiang Di, Usman Naseem
+  year: 2025
+  link: 
+    url: https://aclanthology.org/2025.acl-long.955/
+    display: ACL 
+  highlight: 1
+
+
+- title: "ReflectDiffu: Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework"
+  authors: Jiahao Yuan, Zixiang Di, Zhiqing Cui, Guisong Yang, Usman Naseem
+  year: 2025
+  link: 
+    url: https://aclanthology.org/2025.acl-long.1235/
+    display: ACL 
+  highlight: 1
+
+
+- title: "A Multimodal Prompt-based Framework for Analyzing Code-Mixed and Low-Resource Memes"
+  authors: Surendrabikram Thapa, Hariram Veeramani, Liang Hu, Qi Zhang, Wei Wang, Usman Naseem 
+  year: 2025
+  link:
+    url: to appear
+    display: AAAI ICWSM 
+  highlight: 0
+
+- title: "Myanmar XNLI: Building a Dataset and Exploring Low-resource Approaches to Natural Language Inference with Myanmar"
+  authors: Aung Kyaw Htet, Mark Dras
+  year: 2025
+  link:
+    url: to appear
+    display: Language Resources and Evaluation
+  highlight: 0
+
+- title: "Towards a Bipartisan Understanding of Peace and Vicarious Interactions"
+  authors: Arka Dutta, Syed Mohammad Sualeh Ali, Usman Naseem, Ashiqur R. KhudaBukhsh
+  year: 2025
+  link:
+    url: to appear
+    display: IJCAI
+  highlight: 0
+
+
 - title: Negotiation Games with Structured Post-hoc Intents.
   authors: David Warren, Mark Dras, Malcolm Ryan
   year: 2025
   link:
     url: to appear
     display: Pattern Recognition Letters
-  highlight: 1
+  highlight: 0
 
 
 - title: "Graded Suspiciousness of Adversarial Texts to Humans"
@@ -15,7 +300,7 @@
   link:
     url: https://direct.mit.edu/coli/article/doi/10.1162/coli_a_00555/128185
     display: Computational Linguistics
-  highlight: 1
+  highlight: 0
 
 - title: "Expert evaluation of large language models for clinical dialogue summarization"
   image: ShotNoise.png
@@ -25,7 +310,7 @@
   link:
     url: https://www.nature.com/articles/s41598-024-84850-x
     display: Scientific Reports
-  highlight: 1
+  highlight: 0
 
 - title: "Proceedings of the 31st International Conference on Computational Linguistics: System Demonstrations"
   image: ShotNoise.png
@@ -55,7 +340,7 @@
   link:
     url:  https://www.sciencedirect.com/science/article/pii/S0031320324010835
     display: Pattern Recognition
-  highlight: 1
+  highlight: 0
 
 - title: "Evaluating Large Language Models on Health-Related Claims Across Arabic Dialects"
   image: BSCCOgap.png
@@ -97,7 +382,7 @@
   link:
     url: https://www.sciencedirect.com/science/article/pii/S1386505625000176
     display:  International Journal of Medical Informatics
-  highlight: 1
+  highlight: 0
 
 
 - title: "BeefBot: Harnessing Advanced LLM and RAG Techniques for Providing Scientific and Technology Solutions to Beef Producers"
