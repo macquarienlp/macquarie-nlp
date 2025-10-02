@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We're always looking for keen new members to join the team.  There are regular rounds of PhD and master degree scholarships, and from time to time postdoctoral or research associate positions** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 Jump to [staff](#staff), [research students](#master-and-bachelor-students).

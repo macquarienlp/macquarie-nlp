@@ -45,7 +45,7 @@ The Natural Language Processing group at Macquarie University studies systems th
 
 
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We're always looking for keen new members to join the team.  There are regular rounds of PhD and master degree scholarships, and from time to time postdoctoral or research associate positions** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 
