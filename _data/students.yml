@@ -46,7 +46,13 @@
 - name: Juan Ren
   photo: rock.jpg
   email: juan.ren@hdr.mq.edu.au
-  has_scholar: 
+  has_scholar:
+
+- name: Kaixuan Ren
+  photo: student_kaixuan_ren.jpg
+  email: kaixuan.ren@students.mq.edu.au
+  has_scholar: 1
+  scholar: https://scholar.google.com/citations?user=dypNimYAAAAJ&hl=en
 
 - name: Abid Ali 
   photo: rock.jpg
