@@ -43,14 +43,14 @@
   interest4: Mental Health and Wellbeing Applications
   interest5: Affective Computing
   has_webpage: 1
-  Webpage: https://www.linkedin.com/in/kunchhan-lama/
+  webpage: https://www.linkedin.com/in/kunchhan-lama/
 
 
 - name: Zihan Zhu
   photo: student_zihan_zhu.PNG
   email: zihan.zhu1@hdr.mq.edu.au
   has_scholar: 
-  Webpage: https://www.linkedin.com/in/zihan-zhu-60b84720b/
+  webpage: https://www.linkedin.com/in/zihan-zhu-60b84720b/
   number_educ: 3
   has_scholar:
   has_webpage: 1
@@ -112,7 +112,7 @@
   email: mdazizul.hoque@students.mq.edu.au
   has_scholar: 1
   scholar: https://scholar.google.com/citations?hl=en&authuser=1&user=BIPV27UAAAAJ
-  Webpage: https://mdazizulaman.github.io/
+  webpage: https://mdazizulaman.github.io/
   has_webpage: 1
 
 - name: Md.Nazmul Hossain 
@@ -125,7 +125,7 @@
   info: Data Reconstruction Attack and Privacy-Preserving Defense
   email: weijun.li1@hdr.mq.edu.au
   scholar: https://scholar.google.com.au/citations?user=A0nTTjYAAAAJ&hl=en
-  Webpage: https://weijun-l.github.io/
+  webpage: https://weijun-l.github.io/
   number_educ: 1
   has_scholar: 1
   has_webpage: 1
