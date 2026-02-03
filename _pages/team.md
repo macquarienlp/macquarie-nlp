@@ -201,6 +201,14 @@ Jump to [staff](#staff), [research students](#master-and-bachelor-students).
   <li> {{ member.interest4 }} </li>
   {% endif %}
 
+  {% if member.number_educ == 5 %}
+  <li> {{ member.interest1 }} </li>
+  <li> {{ member.interest2 }} </li>
+  <li> {{ member.interest3 }} </li>
+  <li> {{ member.interest4 }} </li>
+  <li> {{ member.interest5 }} </li>
+  {% endif %}
+
   </ul>
 </div>
 
