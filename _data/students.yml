@@ -30,6 +30,22 @@
   has_scholar: 1
   scholar: https://scholar.google.com.au/citations?user=zAlROqYAAAAJ&hl=en&authuser=1
 
+
+- name: Kunchhan Lama
+  photo: student_Kunchhan.jpg
+  email: kunchhan.lama@students.mq.edu.au
+  has_scholar: 0
+  scholar:
+  number_educ: 5
+  interest1: Natural language Processing
+  interest2: Conversational AI
+  interest3: Human-centered and emotionally aware AI
+  interest4: Mental Health and Wellbeing Applications
+  interest5: Affective Computing
+  has_webpage: 1
+  Webpage: https://www.linkedin.com/in/kunchhan-lama/
+
+
 - name: Zihan Zhu
   photo: student_zihan_zhu.PNG
   email: zihan.zhu1@hdr.mq.edu.au
